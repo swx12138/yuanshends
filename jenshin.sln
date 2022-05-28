@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jenshin", "jenshin.vcxproj", "{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Debug|x64.ActiveCfg = Debug|x64
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Debug|x64.Build.0 = Debug|x64
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Debug|x86.Build.0 = Debug|Win32
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Release|x64.ActiveCfg = Release|x64
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Release|x64.Build.0 = Release|x64
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Release|x86.ActiveCfg = Release|Win32
+		{BBEB2AF6-6F77-4E39-B29C-5D79B262CE99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EFF26B9-F250-435E-854D-FC5E30D7886F}
+	EndGlobalSection
+EndGlobal
